@@ -42,9 +42,9 @@ This Workshop uses the brand new OSGeoLive 16 beta1 (https://live.osgeo.org) (Re
 
 You can download OSGeoLive with the following link. You can install OSGeoLive, run it in a virtual machine (recommended) or use it on an USB stick.
 
-For the conference you can use 15 rc1
-* Download of OSGeoLive Version 15 rc1: http://download.osgeo.org/livedvd/releases/15.0/ (if possible take the vmdk with more programs, else use the iso)
-* Documentation for Version 15 https://osgeo.github.io/OSGeoLive-doc/en/ 
+For the conference you can use 16 beta 1
+* Download of OSGeoLive Version 16 beta 1: http://download.osgeo.org/livedvd/releases/16.0/ (if possible take the vmdk with more programs, else use the iso)
+* Documentation for Version 16 beta 1 https://osgeo.github.io/OSGeoLive-doc/en/
 
 FInal Version 16 will be available in September 2023
 * Download OSGeoLive Image http://live.osgeo.org/en/download.html
