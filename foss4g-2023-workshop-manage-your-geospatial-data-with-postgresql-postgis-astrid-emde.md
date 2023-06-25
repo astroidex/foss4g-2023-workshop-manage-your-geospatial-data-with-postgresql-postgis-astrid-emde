@@ -4,6 +4,8 @@
 
 ![FOSS4G 2023 Workshop Prizren (Kosovo)](img/foss4g-2023.png ) ![](img/postgresql_postgis.png)
 
+Workshop Program Link https://talks.osgeo.org/foss4g-2023-workshop/talk/N3LN3T/
+
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
@@ -325,7 +327,7 @@ CREATE TABLE cities(
 ```sql
 INSERT INTO cities(
             name, geom, country)
-    VALUES ('Prizren',ST_SetSRID(ST_MakePoint(20.741389,42.208611),4326),'Kosovo');
+    VALUES ('Prizren',ST_SetSRID(ST_MakePoint(20.74137579 , 42.209043855),4326),'Kosovo');
 ```
 
 ```sql
