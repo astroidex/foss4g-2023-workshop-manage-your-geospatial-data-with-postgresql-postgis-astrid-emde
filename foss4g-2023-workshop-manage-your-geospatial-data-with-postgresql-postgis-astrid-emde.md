@@ -310,9 +310,7 @@ dropdb -U user demo
 
 ![](img/Prizren.jpg)
 
-* https://en.wikipedia.org/wiki/Florence_Cathedral
-* https://en.wikipedia.org/wiki/Florence_Cathedral#/media/File:Florence_Duomo_from_Michelangelo_hill.jpg
-
+* https://en.wikipedia.org/wiki/Prizren
 
 
 ```sql
